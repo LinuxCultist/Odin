@@ -1,0 +1,14 @@
+.even {
+  width:300px;
+  height:auto;
+}
+
+.uneven {
+    height: 400px;
+
+}
+
+.big {
+    width: 300px;
+    height: 400px;
+}
